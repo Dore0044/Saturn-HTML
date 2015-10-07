@@ -33,16 +33,17 @@ html, body{
 h1{
     color: #eee;
     text-align: center;
-    font-size: 4.6rem;
+    font-size: 8rem;
 }
 h3{
     color: #eee;
     font-size: 2.5rem;
     padding-top: 6rem;
     padding-bottom: 2rem;
+    padding-left: 1rem;
 }
 p{
-
+    padding: 1rem;
 }
 nav a, nav a:link, nav a:visited{
     color: gold;
@@ -68,6 +69,7 @@ nav li{
     background: url(http://griffis.edumedia.ca/mad9013/html-only/saturn.v1.jpg) no-repeat 50% 20%;
     padding: 3rem;
     border-bottom: 10px solid #666;
+    background-size: cover;
 }
 #main{
     color: #d4d4d4;
