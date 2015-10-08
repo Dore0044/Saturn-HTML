@@ -31,22 +31,23 @@ html, body{
 h1{
     color: #eee;
     text-align: center;
-    font-size: 7rem;
+    font-size: 6rem;
 }
 h3{
     color: #eee;
-    font-size: 2.5rem;
+    font-size: 2rem;
     padding-top: 6rem;
     padding-bottom: 2rem;
     padding-left: 1rem;
 }
 p{
     padding: 1rem;
+    font-size: 1.5rem;
 }
 nav a, nav a:link, nav a:visited{
     color: gold;
     text-decoration: none;
-    
+    font-size: 1.7rem;
 }
 nav a:hover, nav a:active{
     color: #fff;
@@ -57,7 +58,7 @@ nav ul{
 nav li{
     font-size: 30px;
     float: left;
-    padding-left: 8rem;
+    padding-left: 6rem;
 }
 #wrapper{
     background-color: #444;
@@ -79,6 +80,7 @@ nav li{
     background-color: #333;
 }
 #footer p{
+    font-size: 1rem;
 }
 #footer a{
     color: gold;
